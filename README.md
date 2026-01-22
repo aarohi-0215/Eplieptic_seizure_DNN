@@ -19,10 +19,16 @@ AUG_EDA_file.ipynb – Exploratory Data Analysis and augmentation exploration.
 requirements.txt – Python libraries and dependencies required to run this project.
 
 Features:
-Preprocessing of EEG signal data for modeling
-Deep Neural Network training on EEG datasets
-Evaluation of model performance for epileptic seizure prediction
-Additional baseline model(s) for comparison
-Jupyter notebooks for interactive experimentation
+1. Preprocessing of EEG signal data for modeling.
+
+2. Deep Neural Network training on EEG datasets.
+
+3. Evaluation of model performance for epileptic seizure prediction.
+
+4. Additional baseline model(s) for comparison.
+
+5. Jupyter notebooks for interactive experimentation.
+
+
 
 
